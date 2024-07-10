@@ -6,6 +6,9 @@ To set up and execute the code and unit tests:
 git clone https://github.com/Simsonss/Interview_Test.git
 ```
 2. Navigate into the project directory:
+```console
+cd Interview_Test
+```
 
 3. Install dependencies (if you haven't already done so):
 ```console
